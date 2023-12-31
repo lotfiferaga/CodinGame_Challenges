@@ -1,1 +1,1 @@
-# CodinGame_Challenges
+# CodinGame Challenges
